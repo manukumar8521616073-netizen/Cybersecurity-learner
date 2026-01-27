@@ -1,12 +1,16 @@
 # Cybersecurity Learning Journey
 
-I am a cybersecurity student documenting my learning progress.
+I am a cybersecurity student documenting my learning step by step.
 
-## Topics
+## What I am learning
 - Linux & Kali Linux basics
 - Networking fundamentals
-- Ethical hacking tools
-- Python for security
+- Ethical hacking concepts
+- Security tools overview
+- Python basics for cybersecurity
 
-## Goal
-To build strong foundations and real-world security skills.
+## Purpose
+This repository is used to track my daily learning, notes, and practice.
+
+## Status
+Beginner | Learning in progress
