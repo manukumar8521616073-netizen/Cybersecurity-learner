@@ -1,4 +1,33 @@
 # Nmap Basics
 
-## what is Nmap?
-Nmap(Network Mapper) is an open-source tool used for network scanning and security auditing.
+## What is Nmap?
+Nmap (Network Mapper) is an open-source tool used for network scanning and security auditing.
+
+## Why Nmap is important in cybersecurity
+- Used for discovering live hosts
+- Identifies open ports on a system
+- Detects running services and versions
+- Helps in vulnerability assessment
+
+## Common uses of Nmap
+- Network mapping
+- Port scanning
+- Service detection
+- OS fingerprinting
+
+## Basic Nmap commands
+
+### Scan a target
+nmap 192.168.1.1
+
+### Scan a website
+nmap example.com
+
+### Scan multiple ports
+nmap -p 80,443 example.com
+
+### Fast scan
+nmap -F example.com
+
+## Note
+Nmap should only be used on systems you own or have permission to scan.
